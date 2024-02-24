@@ -1,5 +1,6 @@
 altair==5.2.0
 attrs==23.2.0
+plotly==5.19.0
 blinker==1.7.0
 cachetools==5.3.2
 certifi==2024.2.2
@@ -20,7 +21,6 @@ numpy==1.26.4
 packaging==23.2
 pandas==2.2.0
 pillow==10.2.0
-plotly==5.19.0
 protobuf==4.25.3
 pyarrow==15.0.0
 pydeck==0.8.1b0
